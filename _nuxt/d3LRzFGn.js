@@ -1,0 +1,1 @@
+import{h as o,c as t,o as r,ab as s}from"./BtdstHtp.js";const c={},n={class:"rvt-row rvt-m-all-none"};function a(e,l){return r(),t("div",n,[s(e.$slots,"default")])}const d=o(c,[["render",a]]);export{d as default};

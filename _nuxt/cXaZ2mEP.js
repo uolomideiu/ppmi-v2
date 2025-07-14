@@ -1,0 +1,1 @@
+import{k as n,R as o,c as r,o as c,ab as l,q as i}from"./BtdstHtp.js";const u=n({__name:"Container",props:{size:{type:String,default:""}},setup(e){const s=e,t=o(()=>[`rvt-container-${s.size}`]);return(a,p)=>(c(),r("div",{class:i(t.value)},[l(a.$slots,"default")],2))}});export{u as _};

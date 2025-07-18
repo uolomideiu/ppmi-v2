@@ -1,1 +1,0 @@
-import{k as o,a9 as s,o as r,b as n,e as l,t as p,ak as c,b0 as i,al as m}from"./BtdstHtp.js";const _=o({__name:"Heading",props:{text:{type:String,default:""},level:{type:null,default:1}},setup(t){const e=t;return(a,u)=>(r(),s(m("h"+e.level),c(i(a.$attrs)),{default:n(()=>[l(p(e.text),1)]),_:1},16))}});export{_};

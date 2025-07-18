@@ -1,0 +1,1 @@
+import{k as o,aa as s,o as r,b as n,e as l,t as p,al as c,b1 as i,am as m}from"./DH_paFhP.js";const _=o({__name:"Heading",props:{text:{type:String,default:""},level:{type:null,default:1}},setup(t){const e=t;return(a,u)=>(r(),s(m("h"+e.level),c(i(a.$attrs)),{default:n(()=>[l(p(e.text),1)]),_:1},16))}});export{_};

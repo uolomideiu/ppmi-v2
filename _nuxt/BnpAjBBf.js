@@ -1,0 +1,1 @@
+import{m as o}from"./7md14pPo.js";import r from"./Dcpy6byE.js";import"./DH_paFhP.js";describe("GreyCard.vue",()=>{it("renders slot content when passed",()=>{const t="Hello, World!",e=o(r,{slots:{default:t}});expect(e.text()).toContain(t)})});

@@ -1,0 +1,1 @@
+import{k as n,S as o,c as r,o as c,ac as l,s as i}from"./DH_paFhP.js";const u=n({__name:"Container",props:{size:{type:String,default:""}},setup(e){const s=e,t=o(()=>[`rvt-container-${s.size}`]);return(a,p)=>(c(),r("div",{class:i(t.value)},[l(a.$slots,"default")],2))}});export{u as _};

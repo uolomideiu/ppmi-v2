@@ -1,1 +1,0 @@
-import{k as r,c as a,o,ab as n,q as s}from"./BtdstHtp.js";const m=r({__name:"GradientContainer",props:{type:{type:String,default:"gradient"}},setup(t){return(e,l)=>(o(),a("div",{class:s(["rvt-border-bo rvt-p-tb-xl rvt-p-tb-1-xl-md-up rvt-m-bottom-lg",t.type])},[n(e.$slots,"default")],2))}});export{m as _};

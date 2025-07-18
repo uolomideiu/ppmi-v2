@@ -1,1 +1,0 @@
-import{h as t,c as s,o as r,d as a,ab as c}from"./BtdstHtp.js";const o={},l={class:"rvt-flex rvt-items-center"},n={class:"rvt-p-all-lg rvt-bg-black-000"};function d(e,_){return r(),s("div",l,[a("div",n,[c(e.$slots,"default")])])}const i=t(o,[["render",d]]);export{i as default};

@@ -1,0 +1,1 @@
+import{k as r,c as a,o,ac as n,s}from"./DH_paFhP.js";const c=r({__name:"GradientContainer",props:{type:{type:String,default:"gradient"}},setup(t){return(e,l)=>(o(),a("div",{class:s(["rvt-border-bo rvt-p-tb-xl rvt-p-tb-1-xl-md-up rvt-m-bottom-lg",t.type])},[n(e.$slots,"default")],2))}});export{c as _};

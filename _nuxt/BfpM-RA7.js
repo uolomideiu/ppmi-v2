@@ -1,0 +1,1 @@
+import{s as o}from"./7md14pPo.js";import r from"./D_ze1Zia.js";import"./DH_paFhP.js";import"./BCqv2Lwq.js";describe("HeaderBlockTwo.vue",()=>{it("renders props.title when passed",()=>{const t="Test Title",e=o(r,{props:{title:t},global:{stubs:{NuxtImg:!0}}});expect(e.text()).toContain(t)})});

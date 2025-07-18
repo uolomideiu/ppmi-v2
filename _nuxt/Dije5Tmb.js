@@ -1,0 +1,1 @@
+import{k as r,c as s,o,ac as p,s as n,i as c}from"./DH_paFhP.js";const l=r({__name:"LayoutWrapper",props:{size:{type:String,default:"xl"}},setup(e){const a=e;return(t,_)=>(o(),s("div",{class:n(["rvt-layout__wrapper","rvt-layout__wrapper--details",`rvt-container-${a.size}`])},[p(t.$slots,"default",{},void 0,!0)],2))}}),u=c(l,[["__scopeId","data-v-e8b72530"]]);export{u as default};

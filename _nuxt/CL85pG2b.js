@@ -1,0 +1,1 @@
+import{m as n}from"./7md14pPo.js";import r from"./BVUqWBG3.js";import"./DH_paFhP.js";describe("TextBlockWithCard",()=>{it("renders the slots correctly",()=>{const t="Example Actions",o="Example Content",e=n(r,{slots:{card:t,content:o}});expect(e.text()).toContain(t),expect(e.text()).toContain(o)})});

@@ -1,0 +1,1 @@
+import{i as t,c as s,o as r,d as c,ac as a}from"./DH_paFhP.js";const o={},l={class:"rvt-flex rvt-items-center"},n={class:"rvt-p-all-lg rvt-bg-black-000"};function d(e,_){return r(),s("div",l,[c("div",n,[a(e.$slots,"default")])])}const f=t(o,[["render",d]]);export{f as default};

@@ -1,1 +1,0 @@
-import a from"./CbF32O0L.js";import n from"./D3-XDRQc.js";import{h as s,c,o as m,a as o,ab as _,F as i}from"./BtdstHtp.js";import"./BABNEA2I.js";import"./BX57ituE.js";import"./CTOGX64A.js";import"./ZjH8Aqq6.js";import"./dt33tG_k.js";const p={};function f(t,l){const r=a,e=n;return m(),c(i,null,[o(r),_(t.$slots,"default"),o(e)],64)}const P=s(p,[["render",f]]);export{P as default};

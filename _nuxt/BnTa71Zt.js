@@ -1,0 +1,1 @@
+import{i as e,c as o,o as r,d as t,ac as c}from"./DH_paFhP.js";const a={},n={class:"rvt-border-bo rvt-p-tb-xxl-md-up"},d={class:"rvt-container-lg"},_={class:"rvt-stat-group"};function l(s,i){return r(),o("div",n,[t("div",d,[t("div",_,[c(s.$slots,"default")])])])}const f=e(a,[["render",l]]);export{f as default};
